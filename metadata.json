@@ -1,0 +1,5 @@
+{
+  "name": "Natan Teknisi - Struk Generator",
+  "description": "Aplikasi web untuk membuat, melihat pratinjau, dan mengunduh faktur layanan untuk Natan Teknisi. Pengguna dapat memasukkan detail item, biaya komponen, biaya layanan, dan informasi garansi untuk membuat faktur yang tampak profesional dalam format PDF dan PNG",
+  "requestFramePermissions": []
+}
